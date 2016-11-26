@@ -34,18 +34,19 @@ p {
     font-family: 'Comic Sans MS', 'cursive','Sans-Serif';
     line-height: 1.4em;
     color: #333;
+    text-decoration : none;
 }
 .myPar {
-    font-size: 1.5em;
+    font-size: 1.1em;
     font-family: 'Comic Sans MS', 'cursive','Sans-Serif';
     line-height: 1.4em;
-    text-align:leftt;
+    text-align:left;
     color: #333;
+    text-decoration:none;
 }
 #abtVumbua{
     font-size: 1.5em;
     text-decoration : underline;
-    list-style : none;
     text-align left;
 }
 footer {
