@@ -43,6 +43,7 @@ p {
 }
 #abtVumbua{
     text-decoration : underline;
+    list-style : none;
 }
 footer {
     border-top: 1px solid #d5d5d5;
