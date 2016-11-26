@@ -39,14 +39,14 @@ p {
     font-size: 1.5em;
     font-family: 'Comic Sans MS', 'cursive','Sans-Serif';
     line-height: 1.4em;
-    text-align:right;
+    text-align:leftt;
     color: #333;
 }
 #abtVumbua{
     font-size: 1.5em;
     text-decoration : underline;
     list-style : none;
-    text-align : right;
+    text-align left;
 }
 footer {
     border-top: 1px solid #d5d5d5;
