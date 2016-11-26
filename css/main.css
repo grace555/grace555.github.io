@@ -36,16 +36,17 @@ p {
     color: #333;
 }
 .myPar {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Comic Sans MS', 'cursive','Sans-Serif';
     line-height: 1.4em;
-    text-align:left;
+    text-align:right;
     color: #333;
 }
 #abtVumbua{
+    font-size: 1.5em;
     text-decoration : underline;
     list-style : none;
-    text-align : left;
+    text-align : right;
 }
 footer {
     border-top: 1px solid #d5d5d5;
