@@ -47,7 +47,6 @@ p {
 #abtVumbua{
     font-size: 1.5em;
     text-decoration : underline;
-    text-align left;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -55,6 +54,9 @@ footer {
 }
 td{
   vertical-align : top;
+}
+th{
+    text-align: left;
 }
 ul.posts { 
     margin: 20px auto 40px; 
