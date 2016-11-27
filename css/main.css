@@ -73,7 +73,7 @@ ul.posts li {
     padding:0;
     text-align:center;
     position:fixed;
-    top:0;
+    top:1;
 }
 .nav li{
     display:inline;
@@ -102,4 +102,8 @@ table,td,th{
 }
 #page5{
   height : 1000px;
+}
+.title{
+ position:fixed;
+ top:0;
 }
