@@ -72,6 +72,7 @@ ul.posts li {
     margin:0;
     padding:0;
     text-align:center;
+    position:fixed;
 }
 .nav li{
     display:inline;
@@ -103,8 +104,4 @@ table,td,th{
 }
 .active {
     background-color: #4CAF50;
-}
-.nav1{
-    position: fixed;
-    top: 0;
 }
