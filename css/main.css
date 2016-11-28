@@ -15,7 +15,6 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #333;
 }
 a:hover {
 text-decoration: underline;
@@ -41,7 +40,7 @@ p {
     font-family: 'Comic Sans MS', 'cursive','Sans-Serif';
     line-height: 1.4em;
     text-align:left;
-    text-decoration:none;
+    color:#000000;
 }
 #abtVumbua{
     font-size: 1.5em;
