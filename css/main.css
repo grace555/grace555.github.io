@@ -8,6 +8,7 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'cursive', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    color:#000000;
 }
 nav ul li, footer ul li {
     display :inline;
