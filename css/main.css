@@ -2,7 +2,6 @@ body {
     font-family:'Comic Sans MS', 'cursive', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
-    overflow: scroll;
 }
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'cursive', 'Sans-Serif';
@@ -75,6 +74,7 @@ ul.posts li {
     text-align:center;
     position:fixed;
     top:70;
+    z-index: 999;
 }
 .nav li{
     display:inline;
