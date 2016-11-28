@@ -58,7 +58,7 @@ td{
 th{
     text-align: left;
 }
-ul.posts { 
+ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
@@ -72,9 +72,6 @@ ul.posts li {
     margin:0;
     padding:0;
     text-align:center;
-    position:fixed;
-    top:70;
-    z-index: 999;
 }
 .nav li{
     display:inline;
